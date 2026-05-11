@@ -5,10 +5,10 @@ Aula sobre uma tela de CRUD básica em kivy.
 
 # Execute a cadeia de comandos abaixo.
 
-py -3.12 -m venv .venv
-.\.venv\Scripts\activate
-python -m pip install --upgrade pip
-pip install kivy
+py -3.12 -m venv .venv <br>
+.\.venv\Scripts\activate <br>
+python -m pip install --upgrade pip <br>
+pip install kivy <br>
 
 # Após a instalação do kivy, execute o programa:
 python app/main.py.
