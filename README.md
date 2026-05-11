@@ -14,7 +14,7 @@ pip install kivy
 python app/main.py.
 
 # Próximos passos:
-Adicionar data de nascimento.
-Criar prioridade de atendimento.
-Criar busca por CPF.
-Criar ordenação por prioridade.
+Adicionar data de nascimento. <br>
+Criar prioridade de atendimento. <br>
+Criar busca por CPF. <br>
+Criar ordenação por prioridade. <br>
